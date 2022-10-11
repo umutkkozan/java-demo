@@ -24,7 +24,7 @@ public class loopDemo {
 	   }
 	   while (j<10);
 	   System.out.println("Do-While Döngüsü Bitti");
-	   
+	   /////asdasdasd
 	   
 	}
 
